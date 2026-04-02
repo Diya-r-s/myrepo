@@ -1,7 +1,7 @@
 # CI/CD Assignment Submission
 
-Name: [Your Full Name]  
-muid: [Your MuLearn ID]
+Name: Diya R S  
+muid: diyars@meulearn
 
 ## 🔗 Repository Link  
 https://github.com/Diya-r-s/myrepo  
